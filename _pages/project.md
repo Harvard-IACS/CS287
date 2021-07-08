@@ -13,7 +13,7 @@ That is, students in this course will be expected to demonstrate:
 - the ability to craft real-world solutions to problems, via **homework assignments** that involve implementing models on actual data
 - knowledge of a particular NLP research problem; the ability to pose a related, interesting, unsolved research question; principled approaches that aim to answer the research question
 
-Computer Science, especially Machine Learning and NLP, are fields that progress at an incredible rate. State-of-the-art models from five years ago are often barely sufficient in serving as baseline models for any particular task.
+Computer Science, especially Machine Learning and NLP, is a field that progresses at an incredible rate. State-of-the-art models from five years ago are often barely sufficient in serving as baseline models for any particular task.
 Yet, I want everyone to gain skills that will last them for many years to come. Gaining research experience greatly helps toward this, as it requires critically reading and evaluating the latest, great approaches to a given problem. Then, one must poke holes in the current community-wide state of accepted knowledge (i.e., published research papers at top venues) and formulate specific research questions that the community at large doesn't yet know the answers to. Working toward an answer is immediately fruitful to the problem at hand. More importantly, this process of conducting research, in general, is a healthy mechanism that allows one to continuously learn forever and not rely on knowledge that will inevitably become outdated.
 
 ## RESEARCH PAPERS
