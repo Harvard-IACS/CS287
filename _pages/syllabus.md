@@ -52,7 +52,7 @@ Every class session will contain a lecture. When <font color="#E57A70"><b>pop qu
 20. Interpretability and Probing Tasks
 
 ### <font color="#E57A70">POP QUIZZES (10%)</font>
-Instead of having exams serve as the only way to assess learning of theoretical content, we wish to provide multiple stages of feedback on any particular topic. So, we will conduct <span style="background-color: #FFFF00">~8 short, unannounced pop quizzes (~10 minutes each)</span>, which will occur at the beginning of lectures (on paper). The content can be from **any previous course content,** including material that was taught in the previous lecture. 
+Instead of having exams serve as the only way to assess learning of theoretical content, we wish to provide multiple stages of feedback on any particular topic. So, we will conduct <span style="background-color: #FFFF00">~8 short, unannounced pop quizzes (~10 minutes each)</span>, which will occur at the beginning of lectures (on paper). The content can be from **any previous course content,** including material that was taught in the most recent lecture. 
 
 Quizzes can be viewed as being a gentle assessment and accountability to ensure each student is on the right track. **Each student’s worst three quizzes will be dropped and will not contribute to one’s course grade** (the remaining will comprise 10% of the total course grade).
 
