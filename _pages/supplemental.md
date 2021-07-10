@@ -77,6 +77,7 @@ There is a wealth of resources available online to help you fill in any gaps and
 <hr width="100%" size="1" color="#DCDCDC" noshade>
 
 ## OTHER
+- [MIT's The Missing Semester](https://missing.csail.mit.edu/) A great run-through of important computing tools and basics
 - [Michael Collin's talk about DeepLearning + NLP progress at large (YouTube)](https://www.youtube.com/watch?v=jfwqRMdTmLo)
 
 **PyTorch:**
