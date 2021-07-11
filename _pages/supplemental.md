@@ -35,6 +35,7 @@ There is a wealth of resources available online to help you fill in any gaps and
 - [MIT's 6.806: Natural Language Processing](https://www.mit.edu/~jda/teaching/6.864/sp21/) by Jacob Andreas and Jim Glass
 - [ETH Zurich's NLP (Spring 2021)](https://rycolab.io/classes/intro-nlp-s21/) by Ryan Cotterell
 - [NYU's Natural Language Understanding and Computational Semantics (Spring 2020)](https://docs.google.com/document/d/1uogW7KYD0aib1hJ3_FumIc2I9CIF7XfUfVkFDskibTU/edit#) by Sam Bowman
+- [Michael Collins' lecture about DeepLearning + NLP progress at large (YouTube)](https://www.youtube.com/watch?v=jfwqRMdTmLo)
 
 ### MACHINE LEARNING
 - [MIT's Deep Learning Basics (1 lecture)](https://www.youtube.com/watch?v=O5xeyoRL95U) by Lex Fridman
@@ -78,7 +79,6 @@ There is a wealth of resources available online to help you fill in any gaps and
 
 ## OTHER
 - [MIT's The Missing Semester](https://missing.csail.mit.edu/) A great run-through of important computing tools and basics
-- [Michael Collin's talk about DeepLearning + NLP progress at large (YouTube)](https://www.youtube.com/watch?v=jfwqRMdTmLo)
 - [Understanding how Python handles functions](https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/)
 
 **PyTorch:**
