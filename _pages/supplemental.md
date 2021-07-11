@@ -79,6 +79,7 @@ There is a wealth of resources available online to help you fill in any gaps and
 ## OTHER
 - [MIT's The Missing Semester](https://missing.csail.mit.edu/) A great run-through of important computing tools and basics
 - [Michael Collin's talk about DeepLearning + NLP progress at large (YouTube)](https://www.youtube.com/watch?v=jfwqRMdTmLo)
+- [Understanding how Python handles functions](https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/)
 
 **PyTorch:**
 - [Getting Started](https://pytorch.org/get-started/locally/)
