@@ -72,7 +72,7 @@ There is a wealth of resources available online to help you fill in any gaps and
 - [Fast.ai's explanation of Key/Value/Query + code in the description](https://www.youtube.com/watch?v=AFkGPmU16QA&list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9)
 
 ### CODE
-- [wandb's Transformer walkthrough](https://wandb.ai/cayush/simpletransformers/reports/Using-SimpleTransformers-for-Common-NLP-Applications--Vmlldzo4Njk2NA)
+- [Weights and Biases' Transformer walkthrough](https://wandb.ai/cayush/simpletransformers/reports/Using-SimpleTransformers-for-Common-NLP-Applications--Vmlldzo4Njk2NA)
 - [Someone's PyTorch Transformers Tutorials](https://github.com/abhimishra91/transformers-tutorials)
 
 <hr width="100%" size="1" color="#DCDCDC" noshade>
