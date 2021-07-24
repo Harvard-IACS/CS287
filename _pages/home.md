@@ -56,7 +56,7 @@ How can computers understand and leverage text data and human language? Natural 
 The demand for this course content is extremely high, and unfortunately, to ensure the quality of education, we must cap the total enrollment this semester. All interested students must [request permission](googleform) to take the course. Selections will be made simply on a first-come, first-serve basis, amongst those who attend the first lecture and have the necessary pre-reqs.
 
 ### PREREQUISITES
-No prior NLP experience is expected or necessary, but students must have a basic foundation in probability and calculus, along with strong knowledge of Machine Learning. See the [syllabus](syllabus) for more details, along with [HW #0 (ungraded)](hw0) to assess if your current knowledge is aligned with the pre-req expectations -- you should be able to answer all of the questions without much difficulty.
+No prior NLP experience is expected or necessary, but students must have a basic foundation in probability and calculus, along with strong knowledge of Machine Learning. See the [syllabus](syllabus) for more details, along with [HW #0 (ungraded)](/docs/CS287_hw0.ipynb) to assess if your current knowledge is aligned with the pre-req expectations -- you should be able to answer all of the questions without much difficulty.
 
 ### CS187 vs CS287
 Students interested in learning NLP should take either this course or Stuart Shieber's CS187 (Introduction to Computational Linguistics and NLP), which is also offered this semester! I describe [the differences here](187vs287).
