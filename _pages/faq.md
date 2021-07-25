@@ -7,6 +7,8 @@ permalink: /FAQ
 Below are some of the common questions. Of course, you can always ask the TFs or me any questions you have via Office Hours and EdStem. If it is a private or serious matter, please email the [helpline at cs287helpline@gmail.com](mailto:cs287helpline@gmail.com).
 
 ## ENROLLMENT
+- **How can I enroll?** All interested students must [request permission](https://forms.gle/vA3Y2bkZxndMdcft6) to take the course.
+
 - **Which course should I take: CS187 or CS287?** You do not need prior NLP experience for either class. Our classes mostly only overlap by covering some of the same neural net architectures, but otherwise there's a huge difference. In short, CS187:
   - is a more gentle introduction than CS287
   - has ~6 lectures
@@ -27,6 +29,8 @@ Below are some of the common questions. Of course, you can always ask the TFs or
 - **Can I audit the course?** No, unfortunately you cannot audit. This is the first semester the course will be offered, and we have a small teaching staff (1 TF for every 20 students). So, in order to provide the highest quality education that we can, we cannot allow non-enrolled students attend class.   
 
 ## ACCESS
+- **Since DCE students are remote, how will they take pop-quizzes?** DCE students will access the pop-quizzes online for up to 24 hours after the class session. Upon opening the online version of the quiz, the DCE student will have 10-15 minutes to complete it -- identical to in-person students.
+ 
 - **Do I have access to the video recordings of the lectures if I am not a Harvard Extension student (aka DCE student)**? Yes. All enrolled students will have access to the recorded lectures. 
 
 - **Do I have access to the video recordings of the lectures if I am not enrolled in the course?** Maybe. I wish to upload the recordings to YouTube, for full, public access, but this understandably violates DCE's policy, as they spend enormous effort recording and editing the videos. I am trying to find an alternative option to make the lectures widely available. At a minimum, I will publicly post and [tweet](https://twitter.com/CS287_NLP) all slides.
