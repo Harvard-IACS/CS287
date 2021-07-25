@@ -7,7 +7,7 @@ permalink: /FAQ
 Below are some of the common questions. Of course, you can always ask the TFs or me any questions you have via Office Hours and EdStem. If it is a private or serious matter, please email the [helpline at cs287helpline@gmail.com](mailto:cs287helpline@gmail.com).
 
 ## ENROLLMENT
-- **How can I enroll?** All interested students must [request permission](https://forms.gle/vA3Y2bkZxndMdcft6) to take the course.
+- **How can I enroll?** All interested students must [request permission](https://forms.gle/vA3Y2bkZxndMdcft6) to take the course. I'm unsure how DCE registration works; it might be the case that DCE is purely a first-come, first-serve basis and that I can't select which DCE students enroll. So, if you are a DCE student, please be careful to make sure that your current knowledge/skills aligns with the pre-requisites for this course (see [HW #0](https://harvard-iacs.github.io/CS287/_pages/CS287_HW0.zip)).
 
 - **Which course should I take: CS187 or CS287?** You do not need prior NLP experience for either class. Our classes mostly only overlap by covering some of the same neural net architectures, but otherwise there's a huge difference. In short, CS187:
   - is a more gentle introduction than CS287
