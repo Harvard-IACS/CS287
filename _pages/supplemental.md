@@ -18,7 +18,7 @@ There is a wealth of resources available online to help you fill in any gaps and
 - **[An Introduction to Statistical Learning (aka ISLR) Edition 1](https://www.statlearning.com/)** by James et al.
 - **[Probabilistic Machine Learning Books 0, 1, and 2](https://probml.github.io/pml-book/)** by Kevin Murphy 2012-2022
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
-- _Pattern Recognition and Machine Learning_ by Bishop (hardcopy. not free)
+- [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Bishop.
 - [The Modern Mathematics of Deep Learning](https://www.researchgate.net/publication/351476107_The_Modern_Mathematics_of_Deep_Learning) by Berner et al. May 2021.
 - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) by Shalev-Shwartz and Ben-David. 2014.
 - [A blitz through classical statistical learning theory (blog)](https://windowsontheory.org/2021/01/31/a-blitz-through-classical-statistical-learning-theory/) by Boaz Barack. 2021.
@@ -84,5 +84,5 @@ There is a wealth of resources available online to help you fill in any gaps and
 
 **PyTorch:**
 - [Getting Started](https://pytorch.org/get-started/locally/)
-- [Microsoft's PyTorch tutorial (4 modules)[https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/]
+- [Microsoft's PyTorch tutorial (4 modules)(https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/)
 - [Transformers](https://pytorch.org/hub/huggingface_pytorch-transformers/)
