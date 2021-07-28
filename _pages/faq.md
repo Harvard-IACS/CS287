@@ -11,6 +11,7 @@ Below are some of the common questions. Of course, you can always ask the TFs or
   - Harvard (non-DCE) students must [request permission](https://forms.gle/vA3Y2bkZxndMdcft6) to take the course. Depending on the allocated budget for hiring TFs/CAs, non-DCE enrollment will be capped at 20-30 students.
   - DCE has an Open Enrollment policy, whereby it is mandated that registration is a first-come, first-serve basis; I can't select which DCE students enroll. So, if you are a DCE student, please carefully read the syllabus and HW #0 to ensure that this class aligns well with your learning objectives. DCE enrollment is capped at 20 students.
 
+
 - **Which course should I take: CS187 or CS287?** You do not need prior NLP experience for either class. Our classes mostly only overlap by covering some of the same neural net architectures, but otherwise there's a huge difference. In short, CS187:
   - is a more gentle introduction than CS287
   - has ~6 lectures
@@ -31,7 +32,7 @@ Below are some of the common questions. Of course, you can always ask the TFs or
 - **Can I audit the course?** No, unfortunately you cannot audit. This is the first semester the course will be offered, and we have a small teaching staff (1 TF for every 20 students). So, in order to provide the highest quality education that we can, we cannot allow non-enrolled students attend class.   
 
 ## ACCESS
-- **Since DCE students are remote, how will they take pop-quizzes?** DCE students will access the pop-quizzes online for up to 24 hours after the class session. Upon opening the online version of the quiz, the DCE student will have 10-15 minutes to complete it -- identical to in-person students.
+- **Since DCE students are remote, how will they take the pop-quizzes and exam?** DCE students will access the pop-quizzes and exam _online_ for up to 24 hours after the class session. Upon opening the online version of the quiz and exam, the DCE student will have the same time constraints to complete it as in-person students.
  
 - **Do I have access to the video recordings of the lectures if I am not a Harvard Extension student (aka DCE student)**? Yes. All enrolled students will have access to the recorded lectures. 
 
