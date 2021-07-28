@@ -34,7 +34,7 @@ Below are some of the common questions. Of course, you can always ask the TFs or
 ## ACCESS
 - **Since DCE students are remote, how will they take the pop-quizzes and exam?** DCE students will access the pop-quizzes and exam _online_ for up to 24 hours after the class session. Upon opening the online version of the quiz and exam, the DCE student will have the same time constraints to complete it as in-person students.
  
-- **Do I have access to the video recordings of the lectures if I am not a Harvard Extension student (aka DCE student)**? Yes. All enrolled students will have access to the recorded lectures. 
+- **Do I have access to the video recordings of the lectures if I am not a Harvard Extension (DCE) student**? Yes. All enrolled students will have access to the recorded lectures. 
 
 - **Do I have access to the video recordings of the lectures if I am not enrolled in the course?** Maybe. I wish to upload the recordings to YouTube, for full, public access, but this understandably violates DCE's policy, as they spend enormous effort recording and editing the videos. I am trying to find an alternative option to make the lectures widely available. At a minimum, I will publicly post and [tweet](https://twitter.com/CS287_NLP) all slides.
 
