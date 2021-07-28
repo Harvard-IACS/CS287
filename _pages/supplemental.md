@@ -84,5 +84,5 @@ There is a wealth of resources available online to help you fill in any gaps and
 
 **PyTorch:**
 - [Getting Started](https://pytorch.org/get-started/locally/)
-- [Microsoft's PyTorch tutorial (4 modules)(https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/)
+- [Microsoft's PyTorch tutorial (4 modules)](https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/)
 - [Transformers](https://pytorch.org/hub/huggingface_pytorch-transformers/)
