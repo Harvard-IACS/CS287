@@ -31,13 +31,13 @@ How can computers understand and leverage text data and human language? Natural 
 
 ## LOGISTICS
 ### LECTURE
-- Tuesdays and Thursdays @ TBD in TBD (Allston)
+- Tuesdays and Thursdays @ 9:45am - 11am in TBD (Allston)
 
 ### OFFICE HOURS
 - Chris: TBD
-- Marie: TBD
-- James: TBD
-- Steve: TBD
+- Javin: TBD
+- Annie: TBD
+- Richard: TBD
 
 ### GRADING
 - **Foundation:** Pop Quizzes: 10% (during lecture)
