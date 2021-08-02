@@ -58,8 +58,12 @@ Quizzes can be viewed as being a gentle assessment and accountability to ensure 
 
 Make-up quizzes will be only given to students who have a valid excuse (e.g., an approved medical or personal emergency).
 
+**NOTE:** DCE students will access the pop-quizzes and exam online for up to 24 hours after the class session. Upon opening the online version of the quiz and exam, the DCE student will have the same time constraints to complete it as in-person students.
+
 ### <font color="#7D2790">EXAM (10%)</font>
 One exam will be conducted during lecture and will count **10% of the total course grade.** The exam will concern (a) theoretical concepts, a la quizzes (e.g., multiple choice, fill in the blank, short answer), and (b) practical applications, a la homework questions (e.g., write or assess some code). There will be no questions concerning research or research papers.
+
+**NOTE:** DCE students will access the pop-quizzes and exam online for up to 24 hours after the class session. Upon opening the online version of the quiz and exam, the DCE student will have the same time constraints to complete it as in-person students.
 
 ### <font color="#5B90E0">HOMEWORK ASSIGNMENTS (30%)</font>
 There will be four equally-weighted, **individual** homework assignments. See the Collaboration Policy below for details. **Students will have a total of three unexcused late days to use throughout the semester without any penalty.** NOTE: valid excuses (e.g., medical excuses) do not count toward your three allotted “free” late days. <span style="background-color: #FFFF00">Any late days used beyond these three will result in a deduction of 10 points per day.</span>
@@ -126,3 +130,11 @@ Class announcements will be through Ed Forum.
 
 ### ACCOMMODATIONS FOR STUDENTS WITH DISABILITIES
 Students needing academic adjustments or accommodations because of a documented disability must present their Faculty Letter from the [Accessible Education Office (AEO)](https://aeo.fas.harvard.edu/) and speak with Chris by the end of the third week of the term. Failure to do so may result in us being unable to respond in a timely manner. All discussions will remain confidential.
+
+### DCE Accommodation Requests
+Harvard Extension School is committed to providing an inclusive, accessible academic community for students with disabilities and chronic health conditions. The Accessibility Services Office (ASO) (https://extension.harvard.edu/for-students/support-and-services/accessibility-services/) offers accommodations and support to students with documented disabilities. If you have a need for accommodations or adjustments, contact Accessibility Services directly via email at accessibility@extension.harvard.edu or by phone at 617-998-9640. 
+
+### DCE Academic Integrity.
+You are responsible for understanding Harvard Extension School policies on academic integrity (https://extension.harvard.edu/for-students/student-policies-conduct/academic-integrity/) and how to use sources responsibly. Stated most broadly, academic integrity means that all course work submitted, whether a draft or a final version of a paper, project, take-home exam, online exam, computer program, oral presentation, or lab report, must be your own words and ideas, or the sources must be clearly acknowledged. The potential outcomes for violations of academic integrity are serious and ordinarily include all of the following: required withdrawal (RQ), which means a failing grade in the course (with no refund), the suspension of registration privileges, and a notation on your transcript. 
+
+Using sources responsibly (https://extension.harvard.edu/for-students/support-and-services/using-sources-effectively-and-responsibly/) is an essential part of your Harvard education. We provide additional information about our expectations regarding academic integrity on our website. We invite you to review that information and to check your understanding of academic citation rules by completing two free online 15-minute tutorials that are also available on our site. (The tutorials are anonymous open-learning tools.) 
