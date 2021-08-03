@@ -58,7 +58,7 @@ The demand for this course content is extremely high, and unfortunately, to ensu
 All interested **Harvard** students (e.g., AC295/CS287) must:
 <ol>
 <li>request permission when registering in my.harvard</li>
-<li>complete the [course application](https://forms.gle/vA3Y2bkZxndMdcft6) form below before September 2</li>
+<li>complete the <a href="https://forms.gle/vA3Y2bkZxndMdcft6">course application</a> form below before September 2</li>
 <li>attend the first lecture</li>
 </ol>
 
@@ -67,7 +67,7 @@ All interested **Harvard** students (e.g., AC295/CS287) must:
 All interested **Harvard Extension (DCE)** students (e.g., E-115B) must:
 <ol>
 <li>register on the Harvard Extension portal</li>
-<li>optionally complete the [course application](https://forms.gle/vA3Y2bkZxndMdcft6) form below before September 2</li>
+  <li>optionally complete the <a href="https://forms.gle/vA3Y2bkZxndMdcft6">course application</a> form below before September 2</li>
 </ol>
 
 The first 20 to sign up will be enrolled in the course. DCE has an Open Enrollment policy, whereby it is mandated that registration is a first-come, first-serve basis; I can’t select which DCE students enroll. So, if you are a DCE student, please carefully read the syllabus and HW #0 to ensure that this class aligns well with your learning objectives.
