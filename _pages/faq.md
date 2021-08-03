@@ -8,9 +8,8 @@ Below are some of the common questions. Of course, you can always ask the TFs or
 
 ## ENROLLMENT
 - **How can I enroll?** All interested students should first look at [HW #0](https://harvard-iacs.github.io/CS287/_pages/CS287_HW0.zip) and carefully check that their current knowledge/skills aligns with the pre-requisites for this course.
-  - **AC295/CS287:** Harvard (non-DCE) students must [request permission](https://forms.gle/vA3Y2bkZxndMdcft6) to take the course. Depending on the allocated budget for hiring TFs/CAs, non-DCE enrollment will be capped at 20-30 students.
+  - **AC295/CS287:** Harvard (non-DCE) students must complete the [course application form](https://forms.gle/vA3Y2bkZxndMdcft6) before Aug 26 (the registration deadline). The Harvard (non-DCE) enrollment will be capped at 35 students.
   - **E-115B:** Harvard Extension (DCE) has an Open Enrollment policy, whereby it is mandated that registration is a first-come, first-serve basis; I can't select which DCE students enroll. So, if you are a DCE student, please carefully read the syllabus and HW #0 to ensure that this class aligns well with your learning objectives. DCE enrollment is capped at 20 students.
-
 
 - **Which course should I take: CS187 or CS287?** You do not need prior NLP experience for either class. Our classes mostly only overlap by covering some of the same neural net architectures, but otherwise there's a huge difference. In short, CS187:
   - is a more gentle introduction than CS287
