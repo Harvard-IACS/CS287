@@ -53,14 +53,24 @@ How can computers understand and leverage text data and human language? Natural 
 - [Supplemental Resources](supplemental): a compilation of useful, external resources
 
 ## ENROLLMENT
-The demand for this course content is extremely high, and unfortunately, to ensure the quality of education, we must cap the total enrollment this semester. All interested students must:
+The demand for this course content is extremely high, and unfortunately, to ensure the quality of education, we must cap the total enrollment this semester.
+
+All interested **Harvard** students (e.g., AC295/CS287) must:
 <ol>
 <li>request permission when registering in my.harvard</li>
 <li>complete the [course application](https://forms.gle/vA3Y2bkZxndMdcft6) form below before September 2</li>
 <li>attend the first lecture</li>
 </ol>
 
-Selections will be made simply on a first-come, first-serve basis, amongst those who attend the first lecture and have the necessary pre-reqs.
+35 students will be selected simply on a first-come, first-serve basis (by their registration times), amongst those who attend the first lecture and have the necessary pre-reqs.
+
+All interested **Harvard Extension (DCE)** students (e.g., E-115B) must:
+<ol>
+<li>register on the Harvard Extension portal</li>
+<li>optionally complete the [course application](https://forms.gle/vA3Y2bkZxndMdcft6) form below before September 2</li>
+</ol>
+
+The first 20 to sign up will be enrolled in the course. DCE has an Open Enrollment policy, whereby it is mandated that registration is a first-come, first-serve basis; I can’t select which DCE students enroll. So, if you are a DCE student, please carefully read the syllabus and HW #0 to ensure that this class aligns well with your learning objectives.
 
 ### PREREQUISITES
 No prior NLP experience is expected or necessary, but students must have a basic foundation in probability and calculus, along with strong knowledge of Machine Learning. <span style="background-color: #FFFF00">See the [syllabus](syllabus) for more details, along with [HW #0 (ungraded)](CS287_HW0.zip)</span> to assess if your current knowledge is aligned with the pre-req expectations -- you should be able to answer all of the questions without much difficulty.
