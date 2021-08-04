@@ -38,7 +38,6 @@ There is a wealth of resources available online to help you fill in any gaps and
 - [Michael Collins' lecture about DeepLearning + NLP progress at large (YouTube)](https://www.youtube.com/watch?v=jfwqRMdTmLo)
 
 ### MACHINE LEARNING
-- [MIT's Deep Learning Basics (1 lecture)](https://www.youtube.com/watch?v=O5xeyoRL95U) by Lex Fridman
 - [Stanford CS229: Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) by Andrew Ng
 - [MIT's 6.S191: Intro to Deep Learning](http://introtodeeplearning.com/)
 - [NYU's Deep Learning (Spring 2020)](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq) by Alfredo Canziani
@@ -47,6 +46,10 @@ There is a wealth of resources available online to help you fill in any gaps and
 - [Princeton's COS324: Introduction to Machine Learning (Fall 2018)](https://www.cs.princeton.edu/courses/archive/fall18/cos324/) by Ryan Adams
 - [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [Stanford's CS229: Machine Learning cliff notes](https://stanford.edu/~shervine/teaching/cs-229/) by Shervine and Afshine
+
+## ONE-OFF
+- [MIT's Deep Learning Basics (1 lecture)](https://www.youtube.com/watch?v=O5xeyoRL95U) by Lex Fridman
+- [Very gentle explanation of Backpropagation](https://dlbasics.com/resources/Backpropagation/Chapter18PDF.pdf) by Andrew Glassner
 - [3Blue1Brown's 4 videos about NN's](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 ### MATH
