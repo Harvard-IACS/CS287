@@ -61,7 +61,7 @@ All interested **Harvard** students (e.g., AC295/CS287) must:
 <li>complete the <a href="https://forms.gle/vA3Y2bkZxndMdcft6">course application</a> form below before August 26 (registration deadline)</li>
 </ol>
 
-35 students will be selected simply on a first-come, first-serve basis (by their registration times), amongst those who have the necessary pre-reqs.
+35 students will be randomly selected amongst those who have a strong foundation of the pre-reqs:
 
 All interested **Harvard Extension (DCE)** students (e.g., E-115B) must:
 <ol>
