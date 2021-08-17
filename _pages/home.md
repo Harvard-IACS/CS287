@@ -40,8 +40,8 @@ How can computers understand and leverage text data and human language? Natural 
 - Richard: TBD
 
 ### GRADING
-- **Foundation:** Pop Quizzes: 10% (during lecture)
-- **Foundation:** Exam: 10% (during lecture)
+- **Foundation:** Pop Quizzes: 10% (during lecture for in-person students)
+- **Foundation:** Exam: 10% (during lecture for in-person students)
 - **Application:** Homework Assignments: 30% (two weeks for each)
 - **Creating New Knowledge:** [Research Project](project): 50% (twelve weeks)
 
@@ -61,7 +61,7 @@ All interested **Harvard** students (e.g., AC295/CS287) must:
 <li>complete the <a href="https://forms.gle/vA3Y2bkZxndMdcft6">course application</a> form below before August 26 (registration deadline)</li>
 </ol>
 
-35 students will be randomly selected amongst those who have a strong foundation of the pre-reqs:
+<span style="background-color: #FFFF00">On August 25, in the afternoon, I will randomly select 35 students amongst those who have a strong foundation of the pre-reqs.</span> 
 
 All interested **Harvard Extension (DCE)** students (e.g., E-115B) must:
 <ol>
