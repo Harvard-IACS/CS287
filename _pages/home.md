@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 ## OVERVIEW
-I'm very excited to introduce this **new graduate course in Fall 2021!** My aim is to make this course as inclusive, diversified, and open as possible, and I will co-list the course to several communities of students:
+I'm very excited to create this **new graduate course in Fall 2021!** My aim is to make this course as inclusive, diversified, and open as possible, and I will co-list the course to several communities of students:
 - **AC295**: Topics in Applied Computation, for IACS' Master's students
 - **CS287r**: Deep Learning for NLP, for computer science concentrators
 - **CSCI E-115B Harvard Extension School**, for the general public all around the world (online)
@@ -31,13 +31,13 @@ How can computers understand and leverage text data and human language? Natural 
 
 ## LOGISTICS
 ### LECTURE
-- Tuesdays and Thursdays @ 9:45am - 11am in TBD (Allston)
+- Tuesdays and Thursdays @ 9:45am - 11am in SEC LL2.224 (Allston)
 
 ### OFFICE HOURS
-- Chris: TBD
-- Javin: TBD
-- Annie: TBD
-- Richard: TBD
+- Mon @ 1pm - 3pm: Alex and Annie (partially)
+- Wed @ 5pm - 7pm: Richard and William
+- Thurs @ 2:30pm - 4:30pm: Chris
+- Sat @ 10am - 11am: Annie (Zoom only)
 
 ### GRADING
 - **Foundation:** Pop Quizzes: 10% (during lecture for in-person students)
@@ -46,30 +46,14 @@ How can computers understand and leverage text data and human language? Natural 
 - **Creating New Knowledge:** [Research Project](project): 50% (twelve weeks)
 
 ## QUICK ACCESS
-- [Canvas (coming soon)](): homework assignments
-- [EdStem (coming soon)](): discussion, help, announcements, Extension School's quizzes
+- [Canvas](https://canvas.harvard.edu/courses/95491): homework assignments
+- [EdStem (should access via Canvas)](https://edstem.org/us/courses/7911/discussion/): discussion, help, announcements, quizzes
 - [Project Ideas (coming soon)](): on-going spreadsheet to collaboratively find and create research projects
-- [Emergency Helpline](mailto:cs287helpline@gmail.com): for private concerns, issues, and questions (not course-content related) 
+- [Emergency Helpline](mailto:cs287helpline@gmail.com): for private concerns, issues, and questions (not course content) 
 - [Supplemental Resources](supplemental): a compilation of useful, external resources
 
 ## ENROLLMENT
-The demand for this course content is extremely high, and unfortunately, to ensure the quality of education, we must cap the total enrollment this semester.
-
-All interested **Harvard** students (e.g., AC295/CS287) must:
-<ol>
-<li>request permission when registering in my.harvard</li>
-<li>complete the <a href="https://forms.gle/vA3Y2bkZxndMdcft6">course application</a> form below before August 26 (registration deadline)</li>
-</ol>
-
-<span style="background-color: #FFFF00">On August 25, in the afternoon, I will randomly select 35 students amongst those who have a strong foundation of the pre-reqs.</span> 
-
-All interested **Harvard Extension (DCE)** students (e.g., E-115B) must:
-<ol>
-<li>register on the Harvard Extension portal</li>
-<li>optionally complete the <a href="https://forms.gle/vA3Y2bkZxndMdcft6">course application</a> form below before Aug 26</li>
-</ol>
-
-The first 20 to sign up will be enrolled in the course. DCE has an Open Enrollment policy, whereby it is mandated that registration is a first-come, first-serve basis; I can’t select which DCE students enroll. So, if you are a DCE student, please carefully read the syllabus and HW #0 to ensure that this class aligns well with your learning objectives.
+The demand for this course content is extremely high, and I'm thrilled to see so many curious students. Enrollment is now closed; I randomly selected 35 Harvard (non-DCE) students amongst those who have a strong foundation of the pre-reqs (per the <a href="https://forms.gle/vA3Y2bkZxndMdcft6">course application</a> form). I am also excited to have 20 Harvard DCE students join us remotely from around the world.
 
 ### PREREQUISITES
 No prior NLP experience is expected or necessary, but students must have a basic foundation in probability and calculus, along with strong knowledge of Machine Learning. <span style="background-color: #FFFF00">See the [syllabus](syllabus) for more details, along with [HW #0 (ungraded)](CS287_HW0.zip)</span> to assess if your current knowledge is aligned with the pre-req expectations -- you should be able to answer all of the questions without much difficulty.
