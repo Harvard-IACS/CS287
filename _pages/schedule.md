@@ -16,7 +16,7 @@ Please visit the [Harvard 10-year Calendar](https://registrar.fas.harvard.edu/te
 - **Dec 9 (Thurs) - Dec 18 (Sat)**: Exam Period
 
 ## OUR CLASS
-- Lectures are on **Tuesdays** and **Thursdays** at TBD in TBD (Allston).
+- Lectures are on **Tuesdays** and **Thursdays** at 9:45am-11:00am in SEC LL2.224
 	- first lecture is on **Sept 2 (Thurs)**. Mandatory attendance for anyone wanting to enroll.
 	- earlier lectures will mostly concern _Deep Learning models_
 	- later lectures will mostly concern _NLP Tasks_
