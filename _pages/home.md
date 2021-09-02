@@ -31,7 +31,7 @@ How can computers understand and leverage text data and human language? Natural 
 
 ## LOGISTICS
 ### LECTURE
-- Tuesdays and Thursdays @ 9:45am - 11am in SEC LL2.224 (Allston)
+- Tuesdays and Thursdays @ 9:45am - 11am in SEC LL2.221 (Allston)
 
 ### OFFICE HOURS
 - Mon @ 1pm - 3pm: Alex (120 minutes) and Annie (~75 minutes) 
