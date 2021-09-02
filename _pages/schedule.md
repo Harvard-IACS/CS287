@@ -35,6 +35,9 @@ Please visit the [Harvard 10-year Calendar](https://registrar.fas.harvard.edu/te
 	- Phase 5 is due Nov 23 (Tues) @ 11:59pm EST
 	- **Final Presentations** (pre-recorded videos) will be on **Dec 9 (Thurs)**
 
+## LECTURES
+- [Lecture 1: Introduction + Logistics]()
+
 ### SPREADSHEET FORMAT
 - The `HW #` column denotes which lectures are eligible for comprising the content for each homework (i.e., each homework encompasses four lectures)
 - Lecture topics with a white background represent foundational content and Deep Learning models
