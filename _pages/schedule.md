@@ -36,9 +36,9 @@ Please visit the [Harvard 10-year Calendar](https://registrar.fas.harvard.edu/te
 	- **Final Presentations** (pre-recorded videos) will be on **Dec 9 (Thurs)**
 
 ## LECTURES
-- Lecture 1: Introduction + Logistics [pdf](../lectures/01_Introduction.pdf) [pptx](../lectures/01_Introduction.pptx)
+- Lecture 1: Introduction + Logistics [[pdf]](../lectures/01_Introduction.pdf) [[pptx]](../lectures/01_Introduction.pptx)
 
-### SPREADSHEET FORMAT
+## SPREADSHEET FORMAT
 - The `HW #` column denotes which lectures are eligible for comprising the content for each homework (i.e., each homework encompasses four lectures)
 - Lecture topics with a white background represent foundational content and Deep Learning models
 - Lecture topics with a gray background represent NLP tasks
