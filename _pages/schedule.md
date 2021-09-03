@@ -9,14 +9,14 @@ Please visit the [Harvard 10-year Calendar](https://registrar.fas.harvard.edu/te
 - **Sept 6 (Mon)**: Labor Day (no classes)
 - **Oct 11 (Mon)**: Indigenous People's Day (no classes)
 - **Oct 20 (Wed)**: Kamala Harris' birthday (classes are held)
-- **Nov 11 (Mon)**: Veteran's Day (classes are held)
+- **Nov 11 (Thurs)**: Veteran's Day (classes are held)
 - **Nov 24 (Wed) - Nov 28 (Sun)**: Thanksgiving Break
 - **Dec 2 (Thurs)**: Last day of classes/lectures
 - **Dec 3 (Wed) - Dec 8 (Wed)**: Reading Period (no classes)
 - **Dec 9 (Thurs) - Dec 18 (Sat)**: Exam Period
 
 ## OUR CLASS
-- Lectures are on **Tuesdays** and **Thursdays** at 9:45am-11:00am in SEC LL2.224
+- Lectures are on **Tuesdays** and **Thursdays** at 9:45am-11:00am in SEC LL2.221
 	- first lecture is on **Sept 2 (Thurs)**. Mandatory attendance for anyone wanting to enroll.
 	- earlier lectures will mostly concern _Deep Learning models_
 	- later lectures will mostly concern _NLP Tasks_
