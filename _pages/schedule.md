@@ -37,6 +37,7 @@ Please visit the [Harvard 10-year Calendar](https://registrar.fas.harvard.edu/te
 
 ## LECTURES
 - Lecture 1: Introduction + Logistics [[pdf]](../lectures/01_Introduction.pdf) [[pptx]](../lectures/01_Introduction.pptx)
+- Lecture 2: Representations + BoW + TFIDF [[pdf]](../lectures/02_Representations.pdf) [[pptx]](../lectures/02_Representations.pptx)
 
 ## SPREADSHEET FORMAT
 - The `HW #` column denotes which lectures are eligible for comprising the content for each homework (i.e., each homework encompasses four lectures)
