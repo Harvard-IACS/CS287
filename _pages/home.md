@@ -17,7 +17,7 @@ How can computers understand and leverage text data and human language? Natural 
 <table align="center" style="background-color:#FFFFFF" border="0px">
   <tr>
     <td><img src="{{ site.baseurl }}/images/chris_cropped.png" alt="Chris Tanner"/></td>
-    <td><img src="{{ site.baseurl }}/images/marie_cropped.png" alt="Marie Curie"/></td>
+    <td><img src="{{ site.baseurl }}/images/marie_cropped.png" alt="Marie Curie" onmouseover="{{ site.baseurl }}/images/james_cropped.png" onmouseout="{{ site.baseurl }}/images/marie_cropped.png"/></td>
     <td><img src="{{ site.baseurl }}/images/james_cropped.png" alt="James Baldwin"/></td>
     <td><img src="{{ site.baseurl }}/images/steve_cropped.png" alt="Steve Jobs"/></td>
   </tr>
