@@ -4,7 +4,7 @@ title: Research Project
 permalink: /project
 ---
 
-You will work in **groups of three** on a custom research project of your choosing. The project will span 12 weeks of the semester and will result in: (1) a high-quality, conference-style short paper (4 pages); (2) a 8-minute pre-recorded video presentation; and (3) the associated code to reproduce all work.
+You will work in **groups of three** on a custom research project of your choosing. The project will span 12 weeks of the semester and will result in: (1) a high-quality, conference-style short paper (4-5 pages, excluding references); (2) a 8-minute pre-recorded video presentation; and (3) the associated code to reproduce all work.
 
 ## MOTIVATION
 Since this is a graduate course, I wish to provide students with not only a solid foundation of advanced concepts, but also the opportunity to conduct _research_ within the field of NLP.
@@ -107,24 +107,28 @@ You are also expected to include an Impact Statement and instructions on how to 
 ## DELIVERABLES
 
 NOTE: Research projects naturally evolve over time. So, if your project shifts gears as it progresses, that is completely fine. You can answer a _slightly different_ research problem than what you initially set out to answer, as long as it's in the same ballpark. With that said:
-- after the Phase 1 deadline, you cannot change team members
+- after the Phase 1 deadline, you are expected to settle on a project and team members. We can help with this process.
 - all Phase deadlines must be met on time
 - if you slightly change focus, you must:
   - discuss this change with us ahead of time
   - "catch up" by re-submitting the previous phases
+- projects cannot change team members after Phase 2
 - projects cannot change focus after Phase 3.
 
-As an example, after successfully submitting Phase 2, but before Phase 3 is due, you might change focus. By the Phase 3 deadline, you need to also re-submit Phase 1 and Phase 2 materials that reflect your new research goal. Once you've submitted Phase 3, you are locked in to work on that project.
+As an example, after successfully submitting Phase 2, but before Phase 3 is due, you might change focus a bit. If so, by the Phase 3 deadline, you would need to also re-submit Phase 1 and Phase 2 materials that reflect your new research goal. Once you've submitted Phase 3, you are locked in to work on that project with the same team members that you listed by the Phase 2 deadline.
 
 ### PHASE 1: PROPOSALS (5%)
-For this initial stage, each three-person team should write a 1-page document that:
-- lists the team members
-- identifies an important problem you wish to work on
-- describes why it's an important problem
-- lists just a few (1-5) related papers
-- details the measurement for success (e.g., BLEU score, F1 score, a novel comparison, etc)
+For this initial stage, you will brainstorm research project ideas and write a 1-page proposal about one of them. Specifically, you must:
+- contribute a few research project ideas (e.g., 1-3) within the `Research Brainstorming` spreadsheet
+- within that spreadsheet's `Student Roster` tab, add your name (required) and any additional background information (optional) you'd like to share about yourself. This will help everyone balance their team as they're considering teammates
+- for one of your research ideas, write a 1-page summary that:
+  - describes the problem in terms of why it's an important one
+  - lists a few (3-5) related papers
+  - details the measurement for success (e.g., BLEU score, F1 score, a novel comparison, etc)
+  - optionally describe a few ideas (1-2) you have for solving the problem
+- indicate in the `Research Brainstorming` spreadsheet which of your ideas you selected for your 1-page writeup.
 
-We'll provide feedback on your proposal. Hopefully your project idea doesn't need _much_ refining. However, if yours need a serious rehaul, you are expected to catch up by Phase 2.
+We'll provide feedback on your proposal, and we'll also help narrow down all projects to a list of just ~20 projects. 
 
 ### PHASE 2: ABSTRACTS + RELATED WORK (5%)
 Here, you will refine your **Phase 1 Proposal** and add to it by writing two sections of your research paper (using the LaTeX template):
