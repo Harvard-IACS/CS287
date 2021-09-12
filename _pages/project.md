@@ -131,11 +131,13 @@ For this initial stage, you will brainstorm research project ideas and write a 1
 We'll provide feedback on your proposal, and we'll also help narrow down all projects to a list of just ~20 projects. 
 
 ### PHASE 2: ABSTRACTS + RELATED WORK (5%)
-Here, you will refine your **Phase 1 Proposal** and add to it by writing two sections of your research paper (using the LaTeX template):
+Here, you will form teams and you all will collectively refine your **Phase 1 Proposal** and write the first three sections of your research paper (using the LaTeX template):
 - Abstract
 - Related Works
+- Introduction
 
-Since you are still becoming familiar with your project, the Related Works section doesn't have to be perfect or exhaustive yet. The expectation is that you've clearly identified the most similar works, and the broader, tangential scope of related works. It should be well-organized, too, such that an outsider could easily follow and digest the scope of your work. 
+Since you are still becoming familiar with your project, the Related Works section doesn't have to be perfect or exhaustive yet. The expectation is that you've clearly identified the most similar works, and the broader, tangential scope of related works. Likewise, the Introduction should clearly introduce and describe your problem. I expect this section to improve significantly over time, but for now it should be well-organized, such that an outsider could easily follow and digest the scope of your problem.
+ 
 
 ### PHASE 3: BASELINES (10%)
 You will improve your Abstract and Related Works, based on feedback from Phase 2. Additionally, you will start a new section titled Experiments. You are expected to have run experiments and obtained baseline results. Again, it is okay if these results aren't good yet, as nobody can perfectly predict the outcome. This is the nature of science and research. However, we do expect to see a reasonable approach for a baseline model, one that is not expected to perform very well but is a simple and sensible, initial approach to the problem. As a reminder, baseline results are critical to your work as they will help inform you of future directions to take, and they will serve as a reference point for your later results. That is, if you later develop a complicated, technical solution, how should one interpret its results? How will we know if its particular accuracy score is actually good? The baseline model provides that contrast and puts all future experiments into perspective.
