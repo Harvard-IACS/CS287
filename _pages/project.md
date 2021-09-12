@@ -46,14 +46,14 @@ All published works from these conferences are made available to the public for 
 ## GUIDANCE
 In this course, I aim to provide as much structure and guidance as possible so as to help each student gain high-quality, directed (not aimless) experience with NLP research. Toward this, there are several milestones/assessments throughout the project **(percentages listed below are out of the total course grade):**
 - Phase 1: Proposal (5%)
-- Phase 2: Abstract + Related Work (5%)
+- Phase 2: Abstract + Related Work + Introduction (5%)
 - Phase 3: Baseline Results (10%)
 - Phase 4: Check-in (not graded)
 - Phase 5: Check-in (not graded)
 - FINAL DELIVERABLES:
-  - 4-page short paper (20%)
+  - 4-page short paper, plus your References and Impact Statement (20%)
   - 8-minute pre-recorded presentation of your slides or a poster (5%)
-  - Code (5%)
+  - Code with instructions on how to run it (5%)
 
 Identifying a well-scoped, important research problem is often difficult. To help with this:
 - Each homework assignment will require you to critically read a paper of your choosing and think of ideas, and you will receive credit for this brainstorming
@@ -130,27 +130,26 @@ For this initial stage, you will brainstorm research project ideas and write a 1
 
 We'll provide feedback on your proposal, and we'll also help narrow down all projects to a list of just ~20 projects. 
 
-### PHASE 2: ABSTRACTS + RELATED WORK (5%)
+### PHASE 2: ABSTRACT + RELATED WORKS + INTRODUCTION (5%)
 Here, you will form teams and you all will collectively refine your **Phase 1 Proposal** and write the first three sections of your research paper (using the LaTeX template):
 - Abstract
 - Related Works
 - Introduction
 
-Since you are still becoming familiar with your project, the Related Works section doesn't have to be perfect or exhaustive yet. The expectation is that you've clearly identified the most similar works, and the broader, tangential scope of related works. Likewise, the Introduction should clearly introduce and describe your problem. I expect this section to improve significantly over time, but for now it should be well-organized, such that an outsider could easily follow and digest the scope of your problem.
- 
+Since you are still becoming familiar with your project, the Related Works section doesn't have to be perfect or exhaustive yet. The expectation is that you've clearly identified the most similar works and the broader, tangential scope of related works. Likewise, the Introduction should clearly introduce and describe your problem. I expect this section to improve significantly over time, but for now it should be well-organized, such that any outsider could easily follow and digest your problem and the scope of it.
 
 ### PHASE 3: BASELINES (10%)
-You will improve your Abstract and Related Works, based on feedback from Phase 2. Additionally, you will start a new section titled Experiments. You are expected to have run experiments and obtained baseline results. Again, it is okay if these results aren't good yet, as nobody can perfectly predict the outcome. This is the nature of science and research. However, we do expect to see a reasonable approach for a baseline model, one that is not expected to perform very well but is a simple and sensible, initial approach to the problem. As a reminder, baseline results are critical to your work as they will help inform you of future directions to take, and they will serve as a reference point for your later results. That is, if you later develop a complicated, technical solution, how should one interpret its results? How will we know if its particular accuracy score is actually good? The baseline model provides that contrast and puts all future experiments into perspective.
+You will improve your Abstract, Related Works, and Introduction, while incorporating feedback from Phase 2. Additionally, you will start new sections titled **Models** and **Experiments**. Specifically, you are expected to explain your system in any way you see fit, which is _usually_ in a section titled **Models** or Methodology. Your experiments section should describe your exact setup, along with your baseline model's results (usually in a sub-section title Results). Again, it is okay if these results aren't good yet, as nobody can perfectly predict the outcome. This is the nature of science and research. However, we do expect to see a reasonable approach for a baseline model, one that is not expected to perform very well but is a simple yet sensible initial approach to the problem. As a reminder, baseline results are critical to your work as they will help inform you of future directions to take, and they will serve as a reference point for your later results. That is, if you later develop a complicated, technical solution, how should one interpret its results? How will we know if its particular accuracy score is actually good? The baseline model provides that contrast and puts all future experiments into perspective.
 
-### PHASE 4: CHECK-IN (0%)
-Before the Phase 4 deadline, update us on your progress via: (1) submitting on Canvas your current working draft of your paper; and (2) speaking to us in Office Hours.
+### PHASE 4: HEAVY EXPERIMENTATION + CHECK-IN (0%)
+Before the Phase 4 deadline, update us on your progress via: (1) submitting on Canvas your current working draft of your paper; and (2) speaking to us in Office Hours. You do not need to add any new sections to your paper, such as Discussion or Conclusions. This is because we want to ensure you spend sufficient time on your actual model, results, and refining the current contents of your paper.
 
-### PHASE 5: CHECK-IN (0%)
-Before the Phase 5 deadline, update us on your progress via: (1) submitting on Canvas your current working draft of your paper; and (2) speaking to us in Office Hours or during class time.
+### PHASE 5: HEAVY EXPERIMENTATION + CHECK-IN (0%)
+Before the Phase 5 deadline, update us on your progress via: (1) submitting on Canvas your current working draft of your paper; and (2) speaking to us in Office Hours or during class time. You do not need to add any new sections to your paper, such as Discussion or Conclusions. This is because we want to ensure you spend sufficient time on your actual model, results, and refining the current contents of your paper.
 
 ### FINAL DELIVERABLES (30%)
 #### 1. PAPER + IMPACT STATEMENT
-- Using the [ACL templates](https://2021.aclweb.org/calls/papers/#paper-submission-and-templates), write a short paper that is exactly 4 pages (when excluding your references). To be clear, your references do not count toward this 4-page requirement. So, your paper will likely be 5 pages in total length when you count the references.
+- Using the [ACL templates](https://2021.aclweb.org/calls/papers/#paper-submission-and-templates), write a short paper that is exactly 4 pages (when excluding your references and impact statement). To be clear, your references do not count toward this 4-page requirement. So, your paper will likely be 5 pages in total length when you count the references.
 - Append your paper+references with an **Impact Statement** that details the possible ethical and societal ramifications of your project. The length should be at least 2 paragraphs. The [full expectations/details can be found here](https://docs.google.com/document/d/1OiDYo0cRj1ybe0n6-4TS7jWlZBNPzxHRBRN3_DsJsIs/edit?usp=sharing), which is also used for my IACS Master's Capstone Research course. This may bring your total page count to 6 pages.
 
 You will be evaluated on:
