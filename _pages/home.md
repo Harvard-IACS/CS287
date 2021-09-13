@@ -34,7 +34,7 @@ How can computers understand and leverage text data and human language? Natural 
 - Tuesdays and Thursdays @ 9:45am - 11am in SEC LL2.221 (Allston)
 
 ### OFFICE HOURS
-- Mon @ 1pm - 3pm: Alex (120 minutes) and Annie (~75 minutes) 
+- Mon @ 1:30pm - 3:30pm: Alex (120 minutes) and Annie (~75 minutes) 
 - Wed @ 5pm - 7pm: Richard and William
 - Thurs @ 2:30pm - 4:30pm: Chris
 - Sun @ 10am - 11am: Annie (Zoom only)
