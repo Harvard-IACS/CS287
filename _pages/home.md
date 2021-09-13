@@ -37,7 +37,7 @@ How can computers understand and leverage text data and human language? Natural 
 - Mon @ 1pm - 3pm: Alex (120 minutes) and Annie (~75 minutes) 
 - Wed @ 5pm - 7pm: Richard and William
 - Thurs @ 2:30pm - 4:30pm: Chris
-- Sat @ 10am - 11am: Annie (Zoom only)
+- Sun @ 10am - 11am: Annie (Zoom only)
 
 ### GRADING
 - **Foundation:** Pop Quizzes: 10% (during lecture for in-person students)
