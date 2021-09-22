@@ -122,9 +122,10 @@ For this initial stage, you will brainstorm research project ideas and write a 1
 - contribute a few research project ideas (e.g., 1-3) within the `Research Brainstorming` spreadsheet
 - within that spreadsheet's `Student Roster` tab, add your name (required) and any additional background information (optional) you'd like to share about yourself. This will help everyone balance their team as they're considering teammates
 - for one of your research ideas, write a 1-page summary that:
-  - describes the problem in terms of why it's an important one
-  - lists a few (3-5) related papers
+  - describes the problem in terms of why it's an important one (every published paper's abstract/intro accomplishes this. so, we're looking for something similar, not ground-breaking claims like how it will impact society)
+  - lists a few (3-5) related papers and any commentary you may wish to include
   - details the measurement for success (e.g., BLEU score, F1 score, a novel comparison, etc)
+  - is there a dataset you have in mind?
   - optionally describe a few ideas (1-2) you have for solving the problem
 - indicate in the `Research Brainstorming` spreadsheet which of your ideas you selected for your 1-page writeup.
 
