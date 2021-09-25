@@ -42,6 +42,7 @@ Please visit the [Harvard 10-year Calendar](https://registrar.fas.harvard.edu/te
 - Lecture 4: Neural Language Models [[pdf]](../lectures/04_Neural_LMs.pdf) [[pptx]](../lectures/04_Neural_LMs.pptx)
 - Lecture 5: Recurrent Neural Networks [[pdf]](../lectures/05_Recurrent_Neural_Nets.pdf) [[pptx]](../lectures/05_Recurrent_Neural_Nets.pptx)
 - Lecture 6: LSTMs [[pdf]](../lectures/06_LSTMs.pdf) [[pptx]](../lectures/06_LSTMs.pptx)
+- Lecture 7: seq2seq [[pdf]](../lectures/07_seq2seq.pdf) [[pptx]](../lectures/07_seq2seq.pptx)
 
 ## SPREADSHEET FORMAT
 - The `HW #` column denotes which lectures are eligible for comprising the content for each homework (i.e., each homework encompasses four lectures)
