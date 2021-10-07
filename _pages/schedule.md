@@ -46,6 +46,7 @@ Please visit the [Harvard 10-year Calendar](https://registrar.fas.harvard.edu/te
 - Lecture 8: Machine Translation [[pdf]](../lectures/08_machine_translation.pdf) [[pptx]](../lectures/08_machine_translation.pptx)
 - Lecture 9: Self-Attention [[pdf]](../lectures/09_self_attention.pdf) [[pptx]](../lectures/09_self_attention.pptx)
 - Lecture 10: Transformers [[pdf]](../lectures/10_transformers.pdf) [[pptx]](../lectures/10_transformers.pptx)
+- Lecture 11: BERT [[pdf]](../lectures/11_BERT.pdf) [[pptx]](../lectures/11_BERT.pptx)
 
 ## SPREADSHEET FORMAT
 - The `HW #` column denotes which lectures are eligible for comprising the content for each homework (i.e., each homework encompasses four lectures)
