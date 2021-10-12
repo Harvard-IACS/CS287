@@ -47,6 +47,7 @@ Please visit the [Harvard 10-year Calendar](https://registrar.fas.harvard.edu/te
 - Lecture 9: Self-Attention [[pdf]](../lectures/09_self_attention.pdf) [[pptx]](../lectures/09_self_attention.pptx)
 - Lecture 10: Transformers [[pdf]](../lectures/10_transformers.pdf) [[pptx]](../lectures/10_transformers.pptx)
 - Lecture 11: BERT [[pdf]](../lectures/11_BERT.pdf) [[pptx]](../lectures/11_BERT.pptx)
+- Lecture 12: GPT-2 [[pdf]](../lectures/12_GPT.pdf) [[pptx]](../lectures/12_GPT.pptx)
 
 ## SPREADSHEET FORMAT
 - The `HW #` column denotes which lectures are eligible for comprising the content for each homework (i.e., each homework encompasses four lectures)
