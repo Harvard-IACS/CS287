@@ -48,6 +48,9 @@ Please visit the [Harvard 10-year Calendar](https://registrar.fas.harvard.edu/te
 - Lecture 10: Transformers [[pdf]](../lectures/10_transformers.pdf) [[pptx]](../lectures/10_transformers.pptx)
 - Lecture 11: BERT [[pdf]](../lectures/11_BERT.pdf) [[pptx]](../lectures/11_BERT.pptx)
 - Lecture 12: GPT-2 [[pdf]](../lectures/12_GPT.pdf) [[pptx]](../lectures/12_GPT.pptx)
+- Lecture 13: Embedded Bias (guest lecture) [[pdf]](../lectures/13_Embedding_Bias.pdf) [[pptx]](../lectures/13_Embedding_Bias.pptx)
+- Lecture 14: Summarization [[pdf]](../lectures/14_Summarization.pdf) [[pptx]](../lectures/14_Summarization.pptx)
+- Lecture 15: Entity Linking [[pdf]](../lectures/15_Entity_Linking.pdf) [[pptx]](../lectures/15_Entity_Linking.pptx)
 
 ## SPREADSHEET FORMAT
 - The `HW #` column denotes which lectures are eligible for comprising the content for each homework (i.e., each homework encompasses four lectures)
