@@ -51,6 +51,7 @@ Please visit the [Harvard 10-year Calendar](https://registrar.fas.harvard.edu/te
 - Lecture 13: Embedded Bias (guest lecture) [[pdf]](../lectures/13_Embedding_Bias.pdf) [[pptx]](../lectures/13_Embedding_Bias.pptx)
 - Lecture 14: Summarization [[pdf]](../lectures/14_Summarization.pdf) [[pptx]](../lectures/14_Summarization.pptx)
 - Lecture 15: Entity Linking [[pdf]](../lectures/15_Entity_Linking.pdf) [[pptx]](../lectures/15_Entity_Linking.pptx)
+- Lecture 16: Coreference Resolution [[pdf]](../lectures/16_coreference_resolution.pdf) [[pptx]](../lectures/16_coreference_resolution.pptx)
 
 ## SPREADSHEET FORMAT
 - The `HW #` column denotes which lectures are eligible for comprising the content for each homework (i.e., each homework encompasses four lectures)
