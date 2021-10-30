@@ -52,6 +52,7 @@ Please visit the [Harvard 10-year Calendar](https://registrar.fas.harvard.edu/te
 - Lecture 14: Summarization [[pdf]](../lectures/14_Summarization.pdf) [[pptx]](../lectures/14_Summarization.pptx)
 - Lecture 15: Entity Linking [[pdf]](../lectures/15_Entity_Linking.pdf) [[pptx]](../lectures/15_Entity_Linking.pptx)
 - Lecture 16: Coreference Resolution [[pdf]](../lectures/16_coreference_resolution.pdf) [[pptx]](../lectures/16_coreference_resolution.pptx)
+- Lecture 17: Commonsense [[pdf]](../lectures/17_commonsense.pdf)
 
 ## SPREADSHEET FORMAT
 - The `HW #` column denotes which lectures are eligible for comprising the content for each homework (i.e., each homework encompasses four lectures)
