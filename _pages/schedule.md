@@ -55,6 +55,9 @@ Please visit the [Harvard 10-year Calendar](https://registrar.fas.harvard.edu/te
 - Lecture 17: Commonsense [[pdf]](../lectures/17_Commonsense.pdf)
 - Lecture 18: Adversarial NLP [[pdf]](../lectures/18_Adversarial_NLP.pdf) [[pptx]](../lectures/18_Adversarial_NLP.ppt\
 x)
+- Lecture 19: Interpretability and Probing [[pdf]](../lectures/19_Interpretability_and_Probing.pdf) [[pptx]](../lectures/19_Interpretability_and_Probing.ppt\
+x)
+
 
 ## SPREADSHEET FORMAT
 - The `HW #` column denotes which lectures are eligible for comprising the content for each homework (i.e., each homework encompasses four lectures)
