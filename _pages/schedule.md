@@ -57,6 +57,8 @@ Please visit the [Harvard 10-year Calendar](https://registrar.fas.harvard.edu/te
 x)
 - Lecture 19: Interpretability and Probing [[pdf]](../lectures/19_Interpretability_and_Probing.pdf) [[pptx]](../lectures/19_Interpretability_and_Probing.ppt\
 x)
+- Lecture 20: Review [[pdf]](../lectures/20_Review.pdf) [[pptx]](../lectures/20_Review.ppt\
+x)
 
 
 ## SPREADSHEET FORMAT
