@@ -60,7 +60,6 @@ x)
 - Lecture 20: Review [[pdf]](../lectures/20_Review.pdf) [[pptx]](../lectures/20_Review.ppt\
 x)
 - Lecture 21: Exam Study Session [[pdf]](../lectures/21_Sample_Question.pdf)
-x)
 
 
 ## SPREADSHEET FORMAT
