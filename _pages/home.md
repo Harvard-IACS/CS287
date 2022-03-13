@@ -16,11 +16,11 @@ How can computers understand and leverage text data and human language? Natural 
 <p></p>
 <table align="center" style="background-color:#FFFFFF" border="0px">
   <tr>
-    <td><img src="{{ site.baseurl }}/images/chris_cropped.png" width="125" alt="Chris Tanner"/></td>
-    <td><img src="{{ site.baseurl }}/images/william_cropped.png" width="125" alt="William Tong"/></td>
-    <td><img src="{{ site.baseurl }}/images/alex_cropped.png" width="125" alt="Alexander Lin"/></td>
-    <td><img src="{{ site.baseurl }}/images/annie_cropped.png" width="125" alt="Annie Zhu"/></td>
-    <td><img src="{{ site.baseurl }}/images/richard_cropped.png" width="125" alt="Richard Qiu"/></td>
+    <td><img src="{{ site.baseurl }}/images/chris_cropped.png" width="100" alt="Chris Tanner"/></td>
+    <td><img src="{{ site.baseurl }}/images/william_cropped.png" width="100" alt="William Tong"/></td>
+    <td><img src="{{ site.baseurl }}/images/alex_cropped.png" width="100" alt="Alexander Lin"/></td>
+    <td><img src="{{ site.baseurl }}/images/annie_cropped.png" width="100" alt="Annie Zhu"/></td>
+    <td><img src="{{ site.baseurl }}/images/richard_cropped.png" width="100" alt="Richard Qiu"/></td>
   </tr>
   <tr>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://www.linkedin.com/in/chriswtanner/">Chris Tanner</a> (Instructor)</td>
