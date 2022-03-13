@@ -16,16 +16,18 @@ How can computers understand and leverage text data and human language? Natural 
 <p></p>
 <table align="center" style="background-color:#FFFFFF" border="0px">
   <tr>
-    <td><img src="{{ site.baseurl }}/images/chris_cropped.png" alt="Chris Tanner"/></td>
-    <td><img src="{{ site.baseurl }}/images/william_cropped.png" alt="William Tong"/></td>
-    <td><img src="{{ site.baseurl }}/images/alex_cropped.png" alt="Alexander Lin"/></td>
-    <td><img src="{{ site.baseurl }}/images/annie_cropped.png" alt="Annie Zhu"/></td>
+    <td><img src="{{ site.baseurl }}/images/chris_cropped.png" width="175" alt="Chris Tanner"/></td>
+    <td><img src="{{ site.baseurl }}/images/william_cropped.png" width="175" alt="William Tong"/></td>
+    <td><img src="{{ site.baseurl }}/images/alex_cropped.png" width="175" alt="Alexander Lin"/></td>
+    <td><img src="{{ site.baseurl }}/images/annie_cropped.png" width="175" alt="Annie Zhu"/></td>
+    <td><img src="{{ site.baseurl }}/images/richard_cropped.png" width="175" alt="Richard Qiu"/></td>
   </tr>
   <tr>
     <td align="center" style="background-color:#FFFFFF" border="0">Chris Tanner (Instructor)</td>
     <td align="center" style="background-color:#FFFFFF" border="0">William Tong (TF)</td>
     <td align="center" style="background-color:#FFFFFF" border="0">Alexander Lin (TF)</td>
     <td align="center" style="background-color:#FFFFFF" border="0">Annie Zhu (CA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0">Richard Qiu (CA)</td>
   </tr>
 </table>
 
