@@ -17,15 +17,15 @@ How can computers understand and leverage text data and human language? Natural 
 <table align="center" style="background-color:#FFFFFF" border="0px">
   <tr>
     <td><img src="{{ site.baseurl }}/images/chris_cropped.png" alt="Chris Tanner"/></td>
-    <td><img src="{{ site.baseurl }}/images/marie_cropped.png" alt="Marie Curie" onmouseover="{{ site.baseurl }}/images/james_cropped.png" onmouseout="{{ site.baseurl }}/images/marie_cropped.png"/></td>
-    <td><img src="{{ site.baseurl }}/images/james_cropped.png" alt="James Baldwin"/></td>
-    <td><img src="{{ site.baseurl }}/images/steve_cropped.png" alt="Steve Jobs"/></td>
+    <td><img src="{{ site.baseurl }}/images/william_cropped.png" alt="William Tong"/></td>
+    <td><img src="{{ site.baseurl }}/images/alex_cropped.png" alt="Alexander Lin"/></td>
+    <td><img src="{{ site.baseurl }}/images/annie_cropped.png" alt="Annie Zhu"/></td>
   </tr>
   <tr>
     <td align="center" style="background-color:#FFFFFF" border="0">Chris Tanner (Instructor)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0">Marie Curie (TF)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0">James Baldwin (CA)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0">Steve Jobs (CA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0">William Tong (TF)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0">Alexander Lin (TF)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0">Annie Zhu (CA)</td>
   </tr>
 </table>
 
