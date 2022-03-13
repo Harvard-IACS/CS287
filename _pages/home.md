@@ -23,11 +23,11 @@ How can computers understand and leverage text data and human language? Natural 
     <td><img src="{{ site.baseurl }}/images/richard_cropped.png" width="125" alt="Richard Qiu"/></td>
   </tr>
   <tr>
-    <td align="center" style="background-color:#FFFFFF" border="0">Chris Tanner (Instructor)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0">William Tong (TF)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0">Alexander Lin (TF)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0">Annie Zhu (CA)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0">Richard Qiu (CA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://www.linkedin.com/in/chriswtanner/">Chris Tanner</a> (Instructor)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://www.linkedin.com/in/wlt/">William Tong</a> (TF)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://www.linkedin.com/in/al5250/">Alexander Lin</a> (TF)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://www.linkedin.com/in/siye-annie-zhu/">Annie Zhu</a> (CA)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="https://www.linkedin.com/in/richard-qiu/">Richard Qiu</a> (CA)</td>
   </tr>
 </table>
 
